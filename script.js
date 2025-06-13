@@ -77,7 +77,7 @@ let cast=new weather();
 
 function days(num)
 {
-    let weekday=["Sunday","Monday","Teusday","Wednesday","Thursday","Friday","Saturday"];
+    let weekday=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
     return weekday[num];
 }
 function icons(icon)
